@@ -25,7 +25,7 @@ CanvasAI is an intelligent canvas application inspired by Apple's MathNotes. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/canvas-ai.git
+   git clone https://github.com/MohammedAazam/canvas-ai.git
    cd canvas-ai
    ```
 
