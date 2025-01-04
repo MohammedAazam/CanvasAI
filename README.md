@@ -64,11 +64,9 @@ CanvasAI is an intelligent canvas application inspired by Apple's MathNotes. It 
 
 **Frontend:**
 - `/`: Main canvas page
-- `/collaborate/:sessionId`: Collaboration page
 
 **Backend:**
 - `POST /api/solve`: Processes input equations via Gemini API.
-- `GET /api/collaborate/:sessionId`: Fetch collaboration data.
 
 ---
 
@@ -91,4 +89,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact
 
-For questions or feedback, please contact us at **your-email@example.com**.
+For questions or feedback, please contact us at **mohammedaazam757@gmail.com**.
